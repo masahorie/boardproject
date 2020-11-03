@@ -1,3 +1,3 @@
 # boardproject
 
-## Django Sample Project - SNS board
+Django Sample Project - SNS board
